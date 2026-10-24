@@ -11,7 +11,8 @@ kNN baseline on the same features did clearly better. Most of the work here ende
 about understanding why.
 
 <p align="center">
-  <img src="assets/generated_grid.png" width="650"><br>
+  <img src="assets/generated_<img width="1280" height="569" alt="photo_2026-10-24 18 51 44" src="https://github.com/user-attachments/assets/d9b79059-69a5-4c95-9fc3-af7bc048f83b" />
+grid.png" width="650"><br>
   <em>Top: real normal patches. Bottom: the synthetic outliers generated from them.</em>
 </p>
 
